@@ -1,0 +1,6 @@
+{
+    "config": "bert_config_etri.json",
+    "bert": "pytorch_model_etri.bin",
+    "tokenizer": "vocab.korean.rawtext.list",
+    "vocab": "vocab_etri.pkl"
+}

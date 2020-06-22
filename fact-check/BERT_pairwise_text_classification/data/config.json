@@ -1,0 +1,5 @@
+{
+    "train": "train.txt",
+    "validation": "validation.txt",
+    "test": "test.txt"
+}
